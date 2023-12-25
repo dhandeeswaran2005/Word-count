@@ -32,7 +32,11 @@ with open('5a.txt','r') as f1:
 print("number of qords in the file = {}".format(num_words))
 ```
 ### OUTPUT:
-![image](https://github.com/MOHAMEDFAROOK2005/Word-count/assets/150319482/020f6d06-7908-4e1f-8dac-a7722e40ff63)
+![image](https://github.com/MOHAMEDFAROOK2005/Word-count/assets/150319482/6c5da585-499f-414a-8f12-9c3fdbcda5f2)
+
+
+![image](https://github.com/MOHAMEDFAROOK2005/Word-count/assets/150319482/772037b4-9509-45ac-9cfb-b2103a76470b)
+
 
 
 
