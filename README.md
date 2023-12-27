@@ -33,10 +33,9 @@ print("number of qords in the file = {}".format(num_words))
 ```
 ### OUTPUT:
 ![Screenshot 2023-12-27 153033](https://github.com/dhandeeswaran2005/Word-count/assets/147139188/210f4a26-1d9b-4472-a594-ceab49223982)
+![Screenshot 2023-12-27 153240](https://github.com/dhandeeswaran2005/Word-count/assets/147139188/a6385bdc-b0f7-434f-bc55-21c22d1650f6)
 
 
-
-![image](https://github.com/MOHAMEDFAROOK2005/Word-count/assets/150319482/772037b4-9509-45ac-9cfb-b2103a76470b)
 
 
 
