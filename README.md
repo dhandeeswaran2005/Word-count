@@ -20,8 +20,8 @@ End the program.
 ## PROGRAM:
 ```
 '''
-developed by:MOHAMED FAROOK 
-REGISTER NUMBER: 23014058
+developed by:Dhandeeswaran selvakumar
+REGISTER NUMBER: 23006838
 
 '''
 num_words=0
@@ -32,7 +32,8 @@ with open('5a.txt','r') as f1:
 print("number of qords in the file = {}".format(num_words))
 ```
 ### OUTPUT:
-![image](https://github.com/MOHAMEDFAROOK2005/Word-count/assets/150319482/6c5da585-499f-414a-8f12-9c3fdbcda5f2)
+![Screenshot 2023-12-27 153033](https://github.com/dhandeeswaran2005/Word-count/assets/147139188/210f4a26-1d9b-4472-a594-ceab49223982)
+
 
 
 ![image](https://github.com/MOHAMEDFAROOK2005/Word-count/assets/150319482/772037b4-9509-45ac-9cfb-b2103a76470b)
